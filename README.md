@@ -1,5 +1,5 @@
 This ruby script runs in command line to get touring dates and venues of a theater play from [Théâtre contemporain](www.theatre-contemporain.net).
-It takes one arguments passed manually in the command line and prints the title of the play, its known touring dates and venues in the terminal
+It takes one argument passed manually in the command line and prints the title of the play, its known touring dates and venues in the terminal
 
 #### Steps to follow
 
